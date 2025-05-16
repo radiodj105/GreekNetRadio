@@ -316,6 +316,9 @@
         </station>
         <station name="ΑΘΗΝΑ -- Στο κόκκινο 105.5">
             <url>http://stream.radiojar.com:80/kokkino-ath.mp3</url>
+        </station>        
+        <station name="ΑΘΗΝΑ -- Energy 105.5">
+            <url>http://netradio.live24.gr/kiss-web-nrg</url>
         </station>
 		
 		######################     ΑΡΓΟΛΙΔΑ     ##########################
@@ -375,7 +378,7 @@
             <url>http://radiopapas.duckdns.org:8000/stream</url>
         </station>
         <station name="ΑΡΚΑΔΙΑ-ΜΕΓΑΛΟΠΟΛΗ -- Radio DJ 105">
-            <url>https://stream-44.zeno.fm/d9zzyf0iomcuv?zs=qCJ91NduQxCw1qU-FSvQwA</url>
+            <url>https://solid67.streamupsolutions.com/proxy/dlnuqkgx/stream</url>
         </station>
 		
 	######################     ΑΡΤΑ     ##########################
